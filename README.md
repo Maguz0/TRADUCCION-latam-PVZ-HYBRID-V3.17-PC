@@ -54,10 +54,23 @@ Para mantener total transparencia de lo que estás instalando, estos son los 4 a
 * **Traducción y Modificación:** [Maguz](https://github.com/Maguz0)
 * **Proyecto Original:** Creadores originales del mod PVZ Hybrid.
 
-## 👾 IMAGENES
+##  IMAGENES
 1. Canje estrellas: <img width="1070" height="618" alt="Image" src="https://github.com/user-attachments/assets/4f5b171f-4cea-46ef-a650-319361eb9435" />
 2. inicio + nota actualizacion: <img width="1086" height="623" alt="Image" src="https://github.com/user-attachments/assets/1e152908-1db6-4e0a-bf06-ebafd7f3460e" />  
 3. nivel: <img width="1072" height="600" alt="Image" src="https://github.com/user-attachments/assets/fbb5f371-b776-4d0a-9a27-2f3e58c8e74f" />
+4. almanaque indice: <img width="1067" height="626" alt="Image" src="https://github.com/user-attachments/assets/fc72e012-9622-459e-b92b-75d4221de2f8" />
+5. almanaque plantas: <img width="1074" height="619" alt="almanaque plantas" src="https://github.com/user-attachments/assets/7718b4b7-bb3b-4cb6-ba11-3d706770dbce" />
+6. almanaque zombie: <img width="1068" height="614" alt="Image" src="https://github.com/user-attachments/assets/e1e9e8bd-0311-4c52-999a-42c99bc3cf92" />
+7. logros 1: <img width="1077" height="623" alt="LOGROS PVZ h" src="https://github.com/user-attachments/assets/e2b966f0-f7a2-46e9-b000-6dae2c7ec265" />
+8. logros 2: <img width="1075" height="622" alt="Image" src="https://github.com/user-attachments/assets/ee79dd08-fd13-46e3-8d83-bcb6f2c447e1" />
+
+## Errores visuales 
+caracteres chinos aun despues de modificar e inyectar los archivos eso se debe a que el mod originalmente no soporta vocales con acento 
+`[á é í ó ú ]` asi como tambien `[ñ ¿ ¡]` si la palabra es Cañon Se puede ver raro pero lo arreglare segun ustedes me digan que le pongo (no me digan que le ponga n EN VEZ DE ñ Me niego a hacerlo los signos y cosas con acento lo quitare en proximo lanzamientos palabras como CARACTERISTICA en los almanaques algunas veces se ve vien pero a veces mal por el acento que lleva 
+
+HABRE UN ISSUE para tu idea o dime que nesesitas que cambie y yo vere algunos texto no los encontre pero vere si busco mejor 
+
+DATO: SI NO RECIBE APOYO EL REPOSITORIO NO SE SUBIRAN PROXIMAS VERSIONES EJ: V.3.18/ETC 
 
 <div align="center">
   <i>Si este parche te fue útil, ¡no olvides dejar una ⭐️ en el repositorio!</i>
