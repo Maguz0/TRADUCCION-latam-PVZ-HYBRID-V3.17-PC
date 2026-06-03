@@ -5,6 +5,7 @@
 [![Estado](https://img.shields.io/badge/Estado-Completado-success.svg)]()
 [![Autor](https://img.shields.io/badge/Autor-Maguz-blue.svg)]()
 [![Idioma](https://img.shields.io/badge/Idioma-Español-orange.svg)]()
+[![Descargas](https://img.shields.io/github/downloads/Maguz0/TRADUCCION-latam-PVZ-HYBRID-V3.17-PC/total.svg?label=Descargas&color=brightgreen)](https://github.com/Maguz0/TRADUCCION-latam-PVZ-HYBRID-V3.17-PC/releases)
 
 *Una traducción seu-completa y optimizada para disfrutar del mod sin barreras de idioma.* aun falta mejorar cosas 
 
