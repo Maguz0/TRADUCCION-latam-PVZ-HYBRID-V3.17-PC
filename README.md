@@ -70,9 +70,7 @@ Para mantener total transparencia de lo que estás instalando, estos son los 4 a
 12. minijuegos del SHOP CHALLENGE: <img width="1336" height="713" alt="Image" src="https://github.com/user-attachments/assets/3634aaea-ec93-4538-b8aa-b27c6255737d" />
 
 
-## Errores visuales 
-caracteres chinos aun despues de modificar e inyectar los archivos eso se debe a que el mod originalmente no soporta vocales con acento 
-`[á é í ó ú ]` asi como tambien `[ñ ¿ ¡]` si la palabra es Cañon Se puede ver raro pero lo arreglare según ustedes me digan que le pongo (no me digan que le ponga n EN VEZ DE ñ Me niego a hacerlo los signos y cosas con acento lo quitare en proximo lanzamientos palabras como CARACTERISTICA en los almanaques algunas veces se ve vien pero a veces mal por el acento que lleva 
+#IMPORTANTE no intentes tener mas ⭐️estrellas⭐️ que yo 303 ⭐️ en el canje soy el god
 
 HABRE UN ISSUE para tu idea o dime que nesesitas que cambie y yo vere algunos texto no los encontre pero vere si busco mejor 
 
